@@ -5,6 +5,6 @@ This project is a lab to learn how to use GitHub focusing on initializing a repo
 
 ## Team Members
 - Kevin Cudjoe
-- Edem Anagba
+- Edem Anagbah
 - Babina Abban
 - Baaba Amosah
